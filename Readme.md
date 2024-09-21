@@ -14,3 +14,16 @@ This is an app I made for my client who is also a banker, it predicts whether an
 - *funded_amnt*         : **int** -> loan amount funded
 - *last_credit_pull_d*  : **date** -> Year Month where the credit profile of debtor is last pulled from CTOS in the format "MMM-yy"
 - *issue_d*             : **date** -> Year Month of the date of issuance of loan
+
+## How to use
+Ensure you have Docker installed.
+1. Clone the repo
+   ```
+   git clone https://github.com/jylim21/Banking-Loan-Assessment.git
+   cd Banking-Loan-Assessment
+   ```
+2. Build and run Docker image/container
+   ```
+   docker build -t assessor_app .
+   docker run -p 5000:5000 assessor_app
+   ```
