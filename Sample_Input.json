@@ -1,0 +1,27 @@
+[{
+   "term":" 36 months",
+   "grade":"A",
+   "sub_grade":"A2",
+   "int_rate":0.06,
+   "revol_util":0.5,
+   "total_rec_prncp":19000.0,
+   "total_rec_int":8000.0,
+   "dti":5.00,
+   "funded_amnt":4000,
+   "last_credit_pull_d":"May-24",
+   "issue_d":"Jul-23"
+}
+,
+{
+   "term":" 60 months",
+   "grade":"D",
+   "sub_grade":"D3",
+   "int_rate":0.02,
+   "revol_util":0.78,
+   "total_rec_prncp":24000.0,
+   "total_rec_int":8000.0,
+   "dti":4.00,
+   "funded_amnt":20000,
+   "last_credit_pull_d":"May-24",
+   "issue_d":"Jan-22"
+}]
