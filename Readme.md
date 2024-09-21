@@ -1,6 +1,6 @@
 # Banking Loan Assessment App
 
-*Note: This app is intended for educational purpose only, usage in actual work purposes are **NOT recommended** as this model is trained based on my client's data only which is likely to be biased.*
+**Disclaimer**: *This app is intended for educational purpose only, usage in actual work purposes are **NOT recommended** as this model is trained based on my client's data only which is likely to be biased, I will NOT be responsible for any financial losses incurred due to inaccurate predictions made by this app.*
 
 This is an app I made for my client who is also a banker, it predicts whether an active loan will be successfully paid off or defaulted based on the following features:
 - *term*                : **int** -> term of loan in months.
